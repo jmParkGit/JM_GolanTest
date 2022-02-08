@@ -1,4 +1,4 @@
-- Result
+# Result
 ```Shell
 #go run main.go
 main: 0
